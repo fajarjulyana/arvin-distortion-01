@@ -6,7 +6,6 @@ Ini adalah proyek pedal distorsi sederhana yang dikembangkan menggunakan Delphi 
 
 - **Distorsi**: Efek distorsi yang dapat disesuaikan untuk mengubah karakter suara gitar.
 - **Tingkat Gain**: Mengatur sejauh mana distorsi diterapkan ke sinyal gitar.
-- **Tombol On/Off**: Mengaktifkan atau menonaktifkan efek distorsi.
 - **Antarmuka Pengguna Sederhana**: Antarmuka pengguna yang mudah digunakan untuk mengontrol pedal distorsi.
 
 ## Persyaratan
@@ -20,8 +19,8 @@ Ini adalah proyek pedal distorsi sederhana yang dikembangkan menggunakan Delphi 
 2. Kompilasi proyek untuk membuat eksekusi.
 3. Jalankan eksekusi pedal distorsi.
 4. Hubungkan gitar Anda ke komputer Anda menggunakan antarmuka audio yang sesuai.
-5. Sesuaikan pengaturan gain dan distorsi sesuai keinginan Anda.
-6. Tekan tombol On/Off untuk mengaktifkan atau menonaktifkan efek distorsi.
+5. Sesuaikan pengaturan level dan volume sesuai keinginan Anda.
+
 
 ## Kontribusi
 
