@@ -32,7 +32,7 @@ Proyek ini dilisensikan di bawah lisensi MIT. Lihat [LISENSI](LISENSI.md) untuk 
 
 ## Dukungan
 
-Jika Anda memiliki pertanyaan atau masalah terkait proyek ini, silakan buka _issue_ di repositori ini atau hubungi kami melalui [fajarjlyana1@gmail.com](mailto:fajarjulyana1@gmail.com ).
+Jika Anda memiliki pertanyaan atau masalah terkait proyek ini, silakan buka _issue_ di repositori ini atau hubungi kami melalui [fajarjulyana1@gmail.com](mailto:fajarjulyana1@gmail.com ).
 
 Terima kasih telah menggunakan pedal distorsi Delphi 7!
 
